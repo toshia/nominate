@@ -1,0 +1,10 @@
+---
+slug: :nominate
+depends:
+  mikutter: 3.3.0
+  plugin:
+  - command
+version: '1.0'
+author: toshi_a
+name: nominate
+description: "たかしというのかい？贅沢な名前だねぇ。今日からお前はオリジナルカレギュウ（プレミアム牛肉使用）　ミニプレミアム膳セットだ、いいね？"
